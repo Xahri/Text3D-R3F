@@ -1,3 +1,13 @@
+This is a project made using React and React Three Fiber (R3F), <br>
+It's an interactive tool that converts your text input into 3D Text, <br>
+You can customize it with different materials. <br> 
+
+[Text 3D Project Preview](https://hex-map-r3f.vercel.app/) <br>
+<br>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
